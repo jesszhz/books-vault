@@ -2,7 +2,7 @@
 title: Ubik
 author: Philip K. Dick
 genre:
-  - business
+  - fiction
   - sci-fi
 isbn: 9781474607438
 cover: 

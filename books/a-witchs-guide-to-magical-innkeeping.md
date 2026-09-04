@@ -1,8 +1,10 @@
 ---
-title: A Witchs Guide to Magical Innkeeping
+title: "A Witch's Guide to Magical Innkeeping"
 author: Sangu Mandanna
 genre:
-  - literary
+  - fiction
+  - fantasy
+  - ya
 isbn: 9780593439388
 cover: 
 read_dates:

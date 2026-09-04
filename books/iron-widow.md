@@ -4,6 +4,7 @@ author: Xiran Jay Zhao
 genre:
   - fiction
   - fantasy
+  - romance
 isbn: 9780861542420
 cover: 
 read_dates:

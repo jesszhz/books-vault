@@ -1,7 +1,10 @@
 ---
 title: A Court of Mist and Fury
 author: Sarah J. Maas
-genre: []
+genre:
+  - fantasy
+  - romance
+  - fiction
 isbn: 9789124015206
 cover: 
 read_dates:

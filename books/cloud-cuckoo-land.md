@@ -4,7 +4,6 @@ author: Anthony Doerr
 genre:
   - literary
   - fiction
-  - historical
   - sci-fi
 isbn: 9781982168445
 cover: 

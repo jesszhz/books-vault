@@ -1,9 +1,8 @@
 ---
 title: "Creativity, Inc."
-author: Ed Catmull
+author: "Ed Catmull, Amy Wallace"
 genre:
-  - business
-  - memoir
+  - non-fiction
 isbn: 9781448126286
 cover: 
 read_dates:

@@ -4,7 +4,6 @@ author: Ann Patchett
 genre:
   - literary
   - fiction
-  - historical
 isbn: 9781526625649
 cover: 
 read_dates:

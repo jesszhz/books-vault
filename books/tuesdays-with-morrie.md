@@ -1,11 +1,8 @@
 ---
-title: Tuesdays With Morrie
-author: Albom Mitch
+title: Tuesdays with Morrie
+author: Mitch Albom
 genre:
   - memoir
-  - psychology
-  - philosophy
-  - religion
 isbn: 9780748112616
 cover: 
 read_dates:

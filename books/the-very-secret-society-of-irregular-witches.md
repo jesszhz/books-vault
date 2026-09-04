@@ -2,7 +2,9 @@
 title: The Very Secret Society of Irregular Witches
 author: Sangu Mandanna
 genre:
+  - fiction
   - fantasy
+  - ya
 isbn: 9781399709897
 cover: 
 read_dates:

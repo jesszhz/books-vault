@@ -2,9 +2,7 @@
 title: American Gods
 author: Neil Gaiman
 genre:
-  - sci-fi
-  - fantasy
-  - religion
+  - fiction
 isbn: 9780747263746
 cover: 
 read_dates:

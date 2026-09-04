@@ -2,10 +2,8 @@
 title: Pet Sematary
 author: Stephen King
 genre:
+  - fiction
   - thriller
-  - horror
-  - art
-  - ya
 isbn: 9781982112394
 cover: 
 read_dates:

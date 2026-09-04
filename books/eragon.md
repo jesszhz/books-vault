@@ -5,7 +5,6 @@ genre:
   - fantasy
   - ya
   - fiction
-  - sci-fi
 isbn: 9780966621334
 cover: 
 read_dates:

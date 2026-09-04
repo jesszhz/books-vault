@@ -1,11 +1,9 @@
 ---
 title: The Institute
-author: King Stephen
+author: Stephen King
 genre:
+  - fiction
   - thriller
-  - horror
-  - psychology
-  - sci-fi
 isbn: 9781982110574
 cover: 
 read_dates:

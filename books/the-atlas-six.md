@@ -3,7 +3,7 @@ title: The Atlas Six
 author: Olivie Blake
 genre:
   - fiction
-  - fantasy
+  - ya
 isbn: 9781250854551
 cover: 
 read_dates:

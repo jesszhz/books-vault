@@ -3,7 +3,7 @@ title: The Seven Husbands of Evelyn Hugo
 author: Taylor Jenkins Reid
 genre:
   - romance
-  - memoir
+  - fiction
 isbn: 9781982147662
 cover: 
 read_dates:

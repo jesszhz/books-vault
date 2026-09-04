@@ -3,6 +3,7 @@ title: The Wedding People
 author: Alison Espach
 genre:
   - fiction
+  - romance
 isbn: 9781420514728
 cover: 
 read_dates:

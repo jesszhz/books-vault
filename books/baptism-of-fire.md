@@ -2,7 +2,8 @@
 title: Baptism of Fire
 author: Andrzej Sapkowski
 genre:
-  - romance
+  - fiction
+  - fantasy
 isbn: 9780263764635
 cover: 
 read_dates:

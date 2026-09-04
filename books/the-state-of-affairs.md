@@ -2,7 +2,7 @@
 title: The State of Affairs
 author: Esther Perel
 genre:
-  - psychology
+  - non-fiction
 isbn: 9780062322609
 cover: 
 read_dates:

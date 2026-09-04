@@ -2,8 +2,8 @@
 title: Neuromancer
 author: William Gibson
 genre:
+  - fiction
   - sci-fi
-  - business
 isbn: 9780143111603
 cover: 
 read_dates:

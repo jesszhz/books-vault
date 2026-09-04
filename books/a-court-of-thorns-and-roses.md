@@ -3,9 +3,8 @@ title: A Court of Thorns and Roses
 author: Sarah J. Maas
 genre:
   - fantasy
-  - fiction
-  - ya
   - romance
+  - fiction
 isbn: 9781490640730
 cover: 
 read_dates:

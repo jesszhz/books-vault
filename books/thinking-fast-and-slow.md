@@ -1,9 +1,8 @@
 ---
-title: "Thinking, Fast and Slow"
+title: "Thinking, fast and slow"
 author: Daniel Kahneman
 genre:
-  - psychology
-  - business
+  - non-fiction
 isbn: 9780141918921
 cover: 
 read_dates:

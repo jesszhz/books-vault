@@ -1,9 +1,9 @@
 ---
 title: The Song of Achilles
-author: Madeline M Miller
+author: Madeline Miller
 genre:
-  - history
-  - historical
+  - fiction
+  - romance
 isbn: 9780062060631
 cover: 
 read_dates:

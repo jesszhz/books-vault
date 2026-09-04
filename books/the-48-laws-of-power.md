@@ -1,11 +1,8 @@
 ---
 title: The 48 Laws of Power
-author: "Greene, Robert"
+author: Robert Greene
 genre:
-  - business
-  - psychology
-  - philosophy
-  - science
+  - non-fiction
 isbn: 9781665182775
 cover: 
 read_dates:

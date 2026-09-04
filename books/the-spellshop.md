@@ -4,6 +4,7 @@ author: Sarah Beth Durst
 genre:
   - fiction
   - fantasy
+  - ya
 isbn: 9781035042333
 cover: 
 read_dates:

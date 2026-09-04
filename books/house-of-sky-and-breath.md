@@ -2,10 +2,9 @@
 title: House of Sky and Breath
 author: Sarah J. Maas
 genre:
-  - literary
-  - fiction
   - fantasy
-  - sci-fi
+  - romance
+  - fiction
 isbn: 9781408884423
 cover: 
 read_dates:

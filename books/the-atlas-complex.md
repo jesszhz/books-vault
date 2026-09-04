@@ -3,6 +3,7 @@ title: The Atlas Complex
 author: Olivie Blake
 genre:
   - fiction
+  - ya
 isbn: 9781529095364
 cover: 
 read_dates:

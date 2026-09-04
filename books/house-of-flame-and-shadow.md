@@ -5,7 +5,6 @@ genre:
   - fantasy
   - romance
   - fiction
-  - literary
 isbn: 9781681193090
 cover: 
 read_dates:

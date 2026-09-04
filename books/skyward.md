@@ -4,7 +4,6 @@ author: Brandon Sanderson
 genre:
   - sci-fi
   - fiction
-  - literary
   - ya
 isbn: 9780399555787
 cover: 

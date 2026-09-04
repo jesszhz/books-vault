@@ -2,9 +2,8 @@
 title: Project Hail Mary
 author: Andy Weir
 genre:
-  - science
+  - fiction
   - sci-fi
-  - thriller
 isbn: 9781713630296
 cover: 
 read_dates:

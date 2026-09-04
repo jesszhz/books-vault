@@ -2,8 +2,8 @@
 title: Bloodlines
 author: Chris Wraight
 genre:
+  - fiction
   - sci-fi
-  - thriller
 isbn: 9781789991604
 cover: 
 read_dates:

@@ -2,7 +2,8 @@
 title: The Atlas Paradox
 author: Olivie Blake
 genre:
-  - literary
+  - fiction
+  - ya
 isbn: 9781529095319
 cover: 
 read_dates:

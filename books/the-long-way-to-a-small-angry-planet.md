@@ -1,10 +1,9 @@
 ---
-title: "The Long Way To A Small, Angry Planet"
+title: "The Long Way to a Small, Angry Planet"
 author: Becky Chambers
 genre:
   - fiction
   - sci-fi
-  - romance
 isbn: 9780062444134
 cover: 
 read_dates:

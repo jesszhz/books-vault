@@ -1,7 +1,9 @@
 ---
 title: Time of Contempt
-author: Sapkowski Andrzej
-genre: []
+author: Andrzej Sapkowski
+genre:
+  - fiction
+  - fantasy
 isbn: 9781742707303
 cover: 
 read_dates:

@@ -1,14 +1,14 @@
 ---
 title: The Metamorphosis
-author: "Franz Kafka, Susan Bernofsky, David Cronenberg"
+author: Franz Kafka
 genre:
   - fiction
   - literary
-isbn: 9780594105701
-cover: 
+isbn: 9780553213690
+cover:
 read_dates:
   - 2024-02-17
 favorite: false
-word_count: 24000  # est. from 96pp × 250
+word_count: 22000
 ---
 

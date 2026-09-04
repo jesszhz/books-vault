@@ -2,14 +2,14 @@
 title: Piranesi
 author: Susanna Clarke
 genre:
-  - literary
   - fantasy
-isbn: 9781635575644
-cover:
+  - literary
+  - fiction
+isbn: 9781526622440
+cover: 
 read_dates:
   - 2024-10-10
-  - 2026-09-03
 favorite: false
-word_count: 66000
+word_count: 68000  # est. from 272pp × 250
 ---
 

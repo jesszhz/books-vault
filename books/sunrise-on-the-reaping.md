@@ -3,9 +3,7 @@ title: Sunrise on the Reaping
 author: Suzanne Collins
 genre:
   - ya
-  - fantasy
   - fiction
-  - sci-fi
 isbn: 9780702340581
 cover: 
 read_dates:

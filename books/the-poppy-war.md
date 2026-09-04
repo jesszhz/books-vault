@@ -4,7 +4,6 @@ author: R. F. Kuang
 genre:
   - fiction
   - fantasy
-  - historical
 isbn: 9780008239800
 cover: 
 read_dates:

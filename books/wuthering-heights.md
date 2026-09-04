@@ -1,11 +1,9 @@
 ---
 title: Wuthering Heights
-author: Emily Bronte
+author: Emily Brontë
 genre:
-  - historical
-  - ya
-  - psychology
-  - romance
+  - fiction
+  - literary
 isbn: 9781720091127
 cover: 
 read_dates:

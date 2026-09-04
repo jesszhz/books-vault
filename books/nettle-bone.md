@@ -1,11 +1,10 @@
 ---
-title: Nettle  Bone
+title: "Nettle & Bone"
 author: T. Kingfisher
 genre:
-  - fantasy
-  - horror
   - fiction
-  - literary
+  - fantasy
+  - ya
 isbn: 9781789098273
 cover: 
 read_dates:

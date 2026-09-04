@@ -4,8 +4,6 @@ author: Donna Tartt
 genre:
   - fiction
   - mystery
-  - literary
-  - classic
 isbn: 9781405529631
 cover: 
 read_dates:

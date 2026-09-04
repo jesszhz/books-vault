@@ -1,10 +1,10 @@
 ---
 title: Altered Carbon
-author: Morgan Richard
+author: Richard K. Morgan
 genre:
+  - fiction
   - sci-fi
-  - thriller
-  - travel
+  - mystery
 isbn: 9780739432143
 cover: 
 read_dates:

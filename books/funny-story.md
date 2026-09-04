@@ -2,7 +2,6 @@
 title: Funny Story
 author: Emily Henry
 genre:
-  - literary
   - fiction
   - romance
 isbn: 9780241624128

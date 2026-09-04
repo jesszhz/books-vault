@@ -2,8 +2,8 @@
 title: A Psalm for the Wild-Built
 author: Becky Chambers
 genre:
-  - literary
   - fiction
+  - sci-fi
 isbn: 9781250236210
 cover: 
 read_dates:

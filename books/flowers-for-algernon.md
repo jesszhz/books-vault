@@ -4,7 +4,7 @@ author: Daniel Keyes
 genre:
   - fiction
   - sci-fi
-  - ya
+  - literary
 isbn: 9780812415643
 cover: 
 read_dates:

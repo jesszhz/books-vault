@@ -1,7 +1,8 @@
 ---
-title: Cyberpunk 2077 No Coincidence
+title: "Cyberpunk 2077: No Coincidence"
 author: Rafal Kosik
-genre: []
+genre:
+  - fiction
 isbn: 
 cover: 
 read_dates:

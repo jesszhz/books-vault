@@ -4,8 +4,7 @@ author: Stephen King
 genre:
   - horror
   - fiction
-  - thriller
-  - mystery
+  - short
 isbn: 9781420514377
 cover: 
 read_dates:

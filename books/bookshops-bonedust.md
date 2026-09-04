@@ -1,5 +1,5 @@
 ---
-title: Bookshops  Bonedust
+title: "Bookshops & Bonedust"
 author: Travis Baldree
 genre:
   - fiction

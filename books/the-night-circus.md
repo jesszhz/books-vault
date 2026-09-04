@@ -2,7 +2,7 @@
 title: The Night Circus
 author: Erin Morgenstern
 genre:
-  - psychology
+  - fiction
   - fantasy
 isbn: 9780307744432
 cover: 

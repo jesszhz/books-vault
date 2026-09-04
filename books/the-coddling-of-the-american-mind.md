@@ -1,11 +1,8 @@
 ---
 title: The Coddling of the American Mind
-author: Greg Lukianoff
+author: "Greg Lukianoff, Jonathan Haidt"
 genre:
-  - science
-  - psychology
-  - ya
-  - politics
+  - non-fiction
 isbn: 9780241308356
 cover: 
 read_dates:

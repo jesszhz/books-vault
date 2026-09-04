@@ -1,7 +1,9 @@
 ---
 title: Ransom
 author: Daniel Silva
-genre: []
+genre:
+  - fiction
+  - mystery
 isbn: 9780063384316
 cover: 
 read_dates:

@@ -1,6 +1,6 @@
 ---
 title: Remarkably Bright Creatures
-author: "Van Pelt, Shelby"
+author: Shelby Van Pelt
 genre:
   - fiction
 isbn: 9780063204164

@@ -2,10 +2,8 @@
 title: Snow Crash
 author: Neal Stephenson
 genre:
-  - sci-fi
   - fiction
-  - thriller
-  - fantasy
+  - sci-fi
 isbn: 9780593599730
 cover: 
 read_dates:

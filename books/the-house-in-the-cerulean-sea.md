@@ -1,10 +1,9 @@
 ---
 title: The House in the Cerulean Sea
-author: "TJ Klune, [Klune, TJ]"
+author: T. J. Klune
 genre:
-  - literary
   - fiction
-  - sci-fi
+  - fantasy
   - ya
 isbn: 9781250217318
 cover: 

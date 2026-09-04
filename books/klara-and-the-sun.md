@@ -4,7 +4,6 @@ author: Kazuo Ishiguro
 genre:
   - sci-fi
   - fiction
-  - romance
   - literary
 isbn: 9780593311295
 cover: 

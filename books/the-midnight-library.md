@@ -2,9 +2,8 @@
 title: The Midnight Library
 author: Matt Haig
 genre:
-  - sci-fi
-  - fantasy
-  - psychology
+  - fiction
+  - ya
 isbn: 9780655697282
 cover: 
 read_dates:

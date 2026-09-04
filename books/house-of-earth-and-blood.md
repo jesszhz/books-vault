@@ -2,7 +2,6 @@
 title: House of Earth and Blood
 author: Sarah J. Maas
 genre:
-  - literary
   - fantasy
   - romance
   - fiction

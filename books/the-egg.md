@@ -2,7 +2,7 @@
 title: The Egg
 author: Andy Weir
 genre:
-  - science
+  - short
   - sci-fi
 isbn: 
 cover: 

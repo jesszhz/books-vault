@@ -1,6 +1,6 @@
 ---
 title: Good Omens
-author: "Neil Gaiman, Terry Pratchett"
+author: "Terry Pratchett, Neil Gaiman"
 genre:
   - fantasy
   - fiction

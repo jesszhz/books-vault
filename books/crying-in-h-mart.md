@@ -3,7 +3,6 @@ title: Crying in H Mart
 author: Michelle Zauner
 genre:
   - memoir
-  - food
 isbn: 9780593153895
 cover: 
 read_dates:

@@ -2,6 +2,7 @@
 title: The Last Wish
 author: Andrzej Sapkowski
 genre:
+  - fiction
   - fantasy
 isbn: 9781637999134
 cover: 

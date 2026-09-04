@@ -2,9 +2,8 @@
 title: Between Two Fires
 author: Christopher Buehlman
 genre:
-  - historical
-  - fiction
   - horror
+  - fiction
 isbn: 9781470825553
 cover: 
 read_dates:

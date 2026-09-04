@@ -1,7 +1,8 @@
 ---
-title: Brigands  Breadknives
+title: "Brigands & Breadknives"
 author: Travis Baldree
 genre:
+  - fiction
   - fantasy
 isbn: 9781250334886
 cover: 
