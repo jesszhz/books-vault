@@ -1,0 +1,7 @@
+.DS_Store
+
+# Obsidian per-machine state (noisy, changes on every tab switch)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
