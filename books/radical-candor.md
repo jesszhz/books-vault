@@ -3,7 +3,7 @@ title: Radical Candor
 author: Kim Malone Scott
 genre:
   - non-fiction
-isbn: 9798749236101
+isbn: 9781250235374
 cover: 
 read_dates:
   - 2022-01-14

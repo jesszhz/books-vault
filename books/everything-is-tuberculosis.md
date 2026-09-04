@@ -3,7 +3,7 @@ title: Everything Is Tuberculosis
 author: John Green
 genre:
   - non-fiction
-isbn: 9780525426059
+isbn: 9780525556572
 cover: 
 read_dates:
   - 2025-03-25

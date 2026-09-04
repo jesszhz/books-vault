@@ -4,7 +4,7 @@ author: R. F. Kuang
 genre:
   - fiction
   - fantasy
-isbn: 9780008239800
+isbn: 9780062662569
 cover: 
 read_dates:
   - 2022-06-08

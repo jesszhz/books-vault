@@ -5,7 +5,7 @@ genre:
   - fiction
   - fantasy
   - ya
-isbn: 9781789098273
+isbn: 9781250244048
 cover: 
 read_dates:
   - 2024-05-31

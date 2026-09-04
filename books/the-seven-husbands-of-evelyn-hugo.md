@@ -4,8 +4,8 @@ author: Taylor Jenkins Reid
 genre:
   - romance
   - fiction
-isbn: 9781982147662
-cover: 
+isbn: 9781501161933
+cover: seven-husbands.jpg
 read_dates:
   - 2022-10-25
 favorite: false

@@ -4,8 +4,8 @@ author: Travis Baldree
 genre:
   - fiction
   - fantasy
-isbn: 9781250334886
-cover: 
+isbn: 9781250451491
+cover: brigands-and-breadknives.jpg
 read_dates:
   - 2025-11-13
 favorite: false

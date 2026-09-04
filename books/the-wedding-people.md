@@ -4,7 +4,7 @@ author: Alison Espach
 genre:
   - fiction
   - romance
-isbn: 9781420514728
+isbn: 9781250899576
 cover: 
 read_dates:
   - 2025-03-25

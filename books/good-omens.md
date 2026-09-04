@@ -4,7 +4,7 @@ author: "Terry Pratchett, Neil Gaiman"
 genre:
   - fantasy
   - fiction
-isbn: 9780739474143
+isbn: 9780552171892
 cover: 
 read_dates:
   - 2023-06-05

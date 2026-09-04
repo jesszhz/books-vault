@@ -3,7 +3,7 @@ title: Theo of Golden
 author: Allen Levi
 genre:
   - fiction
-isbn: 9780008819439
+isbn: 9781668236512
 cover: 
 read_dates:
   - 2026-07-26

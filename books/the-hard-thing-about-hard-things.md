@@ -3,7 +3,7 @@ title: The Hard Thing About Hard Things
 author: Ben Horowitz
 genre:
   - non-fiction
-isbn: 9780062273215
+isbn: 9780062273208
 cover: 
 read_dates:
   - 2022-02-14

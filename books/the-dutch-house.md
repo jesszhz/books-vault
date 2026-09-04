@@ -4,7 +4,7 @@ author: Ann Patchett
 genre:
   - literary
   - fiction
-isbn: 9781526625649
+isbn: 9780062963673
 cover: 
 read_dates:
   - 2021-11-18

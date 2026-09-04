@@ -3,7 +3,7 @@ title: The Unwinding of the Miracle
 author: Julie Yip-Williams
 genre:
   - memoir
-isbn: 9781473558649
+isbn: 9780525511359
 cover: 
 read_dates:
   - 2022-08-17

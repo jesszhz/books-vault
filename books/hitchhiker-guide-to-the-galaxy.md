@@ -4,7 +4,7 @@ author: Douglas Adams
 genre:
   - fiction
   - sci-fi
-isbn: 9781986127219
+isbn: 9780345391803
 cover: 
 read_dates:
   - 2025-01-05

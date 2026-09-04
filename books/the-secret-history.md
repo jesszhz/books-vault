@@ -4,7 +4,7 @@ author: Donna Tartt
 genre:
   - fiction
   - mystery
-isbn: 9781405529631
+isbn: 9780449911518
 cover: 
 read_dates:
   - 2022-04-28

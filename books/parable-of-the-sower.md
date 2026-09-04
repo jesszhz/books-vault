@@ -4,7 +4,7 @@ author: Octavia E. Butler
 genre:
   - fiction
   - literary
-isbn: 9780704344211
+isbn: 9781472263667
 cover: 
 read_dates:
   - 2025-11-19

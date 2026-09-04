@@ -4,7 +4,7 @@ author: Emily Brontë
 genre:
   - fiction
   - literary
-isbn: 9781720091127
+isbn: 9781551115320
 cover: 
 read_dates:
   - 2025-02-25

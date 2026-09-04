@@ -5,7 +5,7 @@ genre:
   - fiction
   - sci-fi
 isbn: 9781789991604
-cover: 
+cover: bloodlines.jpg
 read_dates:
   - 2025-06-07
 favorite: false

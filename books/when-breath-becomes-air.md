@@ -3,7 +3,7 @@ title: When Breath Becomes Air
 author: Paul Kalanithi
 genre:
   - memoir
-isbn: 9781548493486
+isbn: 9781784701994
 cover: 
 read_dates:
   - 2022-08-10

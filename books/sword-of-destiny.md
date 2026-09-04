@@ -4,7 +4,7 @@ author: Andrzej Sapkowski
 genre:
   - fiction
   - fantasy
-isbn: 9798403814935
+isbn: 9780316452564
 cover: 
 read_dates:
   - 2024-03-19

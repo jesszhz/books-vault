@@ -4,8 +4,8 @@ author: Travis Baldree
 genre:
   - fiction
   - fantasy
-isbn: 9781250886118
-cover: 
+isbn: 9781035007370
+cover: bookshops-and-bonedust.jpg
 read_dates:
   - 2025-11-13
 favorite: false

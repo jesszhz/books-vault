@@ -3,7 +3,7 @@ title: The Alchemist
 author: Paulo Coelho
 genre:
   - fiction
-isbn: 9780062416216
+isbn: 9780008144227
 cover:
 read_dates:
   - 2024-04-16

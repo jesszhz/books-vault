@@ -5,7 +5,7 @@ genre:
   - fiction
   - sci-fi
   - mystery
-isbn: 9780739432143
+isbn: 9780345457684
 cover: 
 read_dates:
   - 2026-04-04

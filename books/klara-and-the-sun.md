@@ -5,7 +5,7 @@ genre:
   - sci-fi
   - fiction
   - literary
-isbn: 9780593311295
+isbn: 9780571364879
 cover: 
 read_dates:
   - 2022-01-01

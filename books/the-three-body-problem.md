@@ -4,7 +4,7 @@ author: Cixin Liu
 genre:
   - sci-fi
   - fiction
-isbn: 9781803287461
+isbn: 9780765382030
 cover: 
 read_dates:
   - 2024-05-23

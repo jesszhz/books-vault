@@ -4,7 +4,7 @@ author: Emily Henry
 genre:
   - fiction
   - romance
-isbn: 9780241624128
+isbn: 9780593441282
 cover: 
 read_dates:
   - 2026-06-24
