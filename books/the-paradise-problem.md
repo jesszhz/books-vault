@@ -5,10 +5,10 @@ genre:
   - fiction
   - romance
 isbn: 9781668017722
-cover: 
+cover:
 read_dates:
   - 2026-06-24
 favorite: false
-word_count: 
+word_count: 103903
 ---
 

@@ -3,7 +3,7 @@ title: Leaders Eat Last
 author: Simon Sinek
 genre:
   - non-fiction
-isbn: 9781591848011
+isbn: 9781591845324
 cover:
 read_dates:
   - 2022-01-03

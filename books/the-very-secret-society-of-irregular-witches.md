@@ -6,10 +6,9 @@ genre:
   - fantasy
   - ya
 isbn: 9781399709897
-cover: 
+cover:
 read_dates:
   - 2024-09-11
 favorite: false
-word_count: 
+word_count: 91000
 ---
-

@@ -6,10 +6,10 @@ genre:
   - romance
   - fiction
 isbn: 9789124015206
-cover: 
+cover:
 read_dates:
   - 2023-07-26
 favorite: false
-word_count: 
+word_count: 725000
 ---
 

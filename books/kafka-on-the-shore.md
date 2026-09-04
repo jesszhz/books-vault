@@ -4,11 +4,11 @@ author: Haruki Murakami
 genre:
   - fiction
   - literary
-isbn: 
-cover: 
+isbn: 9781400079278
+cover:
 read_dates:
   - 2022-04-28
 favorite: false
-word_count: 
+word_count:
 ---
 

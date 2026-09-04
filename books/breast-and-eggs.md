@@ -4,11 +4,11 @@ author: Mieko Kawakami
 genre:
   - literary
   - fiction
-isbn: 
-cover: 
+isbn: 9781609456702
+cover:
 read_dates:
   - 2021-11-05
 favorite: false
-word_count: 
+word_count:
 ---
 

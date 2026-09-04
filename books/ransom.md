@@ -5,10 +5,10 @@ genre:
   - fiction
   - mystery
 isbn: 9780063384316
-cover: 
+cover:
 read_dates:
   - 2026-07-26
 favorite: false
-word_count: 
+word_count: 100000
 ---
 

@@ -4,11 +4,11 @@ author: Jacqueline Harpman
 genre:
   - fiction
   - literary
-isbn: 
-cover: 
+isbn: 9781945492600
+cover:
 read_dates:
   - 2024-06-19
 favorite: false
-word_count: 
+word_count:
 ---
 
