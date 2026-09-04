@@ -4,8 +4,8 @@ author: Haruki Murakami
 genre:
   - fiction
   - magical realism
-isbn: 978-0679775430
-cover: wind-up-bird-chronicle.jpg
+isbn: 9780679775431
+cover: windup-bird-chronicle.jpg
 read_dates:
   - 2026-09-03
 favorite: false
