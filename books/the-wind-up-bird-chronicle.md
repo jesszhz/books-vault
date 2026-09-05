@@ -17,7 +17,7 @@ my thoughts
 - it did all come together in the end which i didn't remember from other murakami books
 
 isolation and stagnation -> detachment from reality, twisted and debased
-- may kasahara -> thinking too much, doing nothing in the house, lack of feeling or processing for the motorcycle boy who died vs going to work in the wig factory, keeping hands busy, being around other girls
+- may kasahara -> thinking too much, doing nothing in the house, lack of feeling or processing for the motorcycle boy who died vs going to work in the wig factory, keeping hands busy, being around other girls (even though she doesn't feel in the same boat as them)
 	- feeling warm and happy about small things like visiting the duck people
 	- her bit about how her parents are people who make instant rice pudding and get rice pudding, but sometimes she makes instant rice pudding and get potato gratin, and how if this happened to her parents they would say "oh i must have used the wrong pouch"
 	- sequence of events do not seem to follow cause or effect - things just seem to happen without rhyme or reason
