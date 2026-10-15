@@ -8,7 +8,7 @@ isbn: 9781945492600
 cover:
 read_dates:
   - 2024-06-19
-favorite: false
+favorite: true
 word_count:
 ---
 

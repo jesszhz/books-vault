@@ -5,10 +5,10 @@ genre:
   - fiction
   - sci-fi
 isbn: 9780575076372
-cover: 
+cover:
 read_dates:
   - 2023-02-24
-favorite: false
-word_count: 120250  # est. from 481pp × 250
+favorite: true
+word_count: 120250
 ---
 
