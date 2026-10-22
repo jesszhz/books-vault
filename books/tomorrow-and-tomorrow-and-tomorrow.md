@@ -4,7 +4,7 @@ author: Gabrielle Zevin
 genre:
   - fiction
 isbn: 9780343684655
-cover:
+cover: tomorrow-and-tomorrow-and-tomorrow.jpg
 read_dates:
   - 2024-04-15
 favorite: true
