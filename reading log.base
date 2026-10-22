@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.folder == "books"
+views:
+  - type: table
+    name: View
+    order:
+      - title
+      - author
+      - favorite
+      - genre
+      - read_dates
+      - word_count
+      - file.name
+    sort:
+      - property: read_dates
+        direction: DESC
+      - property: author
+        direction: ASC

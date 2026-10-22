@@ -15,7 +15,7 @@ books-vault/
 
 ## Adding a book
 
-1. Cmd-N → create new `book` template 
+1. Cmd-N, then Cmd-Shift-N → create new `book` template 
 2. Rename the note to `kebab-case-title.md` and move it into `books/`
 3. Fill title, author, genre, ISBN, `word_count`
 4. If today is the first read, leave the pre-filled date; otherwise edit it

@@ -9,6 +9,6 @@ cover:
 read_dates:
   - 2022-04-28
 favorite: false
-word_count:
+word_count: 153750
 ---
 

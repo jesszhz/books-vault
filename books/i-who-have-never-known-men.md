@@ -9,6 +9,6 @@ cover:
 read_dates:
   - 2024-06-19
 favorite: true
-word_count:
+word_count: 48000
 ---
 

@@ -6,10 +6,11 @@ genre:
   - fantasy
   - sci-fi
 isbn: 9780593820261
-cover: 
+cover:
 read_dates:
   - 2025-12-02
+  - 2016-10-15
 favorite: false
-word_count: 96500  # est. from 386pp × 250
+word_count: 96500
 ---
 
