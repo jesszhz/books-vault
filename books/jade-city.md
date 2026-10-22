@@ -10,4 +10,6 @@ read_dates:
 favorite: false
 word_count: 177785
 ---
-
+chinese inspired clan conflict fantasy novel 
+in my head Kekon is a mirror of Hong Kong
+reminiscent of red rising in tone i think

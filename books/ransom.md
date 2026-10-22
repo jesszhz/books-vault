@@ -11,4 +11,5 @@ read_dates:
 favorite: false
 word_count: 100000
 ---
-
+fun, plot driven vacation read
+nothing too heavy or lovey-dovey

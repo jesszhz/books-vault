@@ -11,4 +11,6 @@ read_dates:
 favorite: false
 word_count: 103903
 ---
-
+fun vacation romance read
+goes down easy like fluffy fanfiction
+a lot less degenerate that ACOTAR
