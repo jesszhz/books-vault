@@ -1,0 +1,26 @@
+name: Notify site to rebuild
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'books/**'
+      - 'covers/**'
+      - 'templates/**'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: POST to Vercel Deploy Hook
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "::error::VERCEL_DEPLOY_HOOK secret is not set in this repo."
+            echo "Create it with: gh secret set VERCEL_DEPLOY_HOOK --repo jesszhz/books-vault"
+            exit 1
+          fi
+          curl -fsS -X POST "$HOOK" -o response.json -w "HTTP %{http_code}\n"
+          cat response.json
