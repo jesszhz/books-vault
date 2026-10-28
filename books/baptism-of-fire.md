@@ -5,7 +5,7 @@ genre:
   - fiction
   - fantasy
 isbn: 9780316219167
-cover:
+cover: baptism-of-fire.jpg
 read_dates:
   - 2024-04-14
 favorite: false

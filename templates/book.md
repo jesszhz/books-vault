@@ -9,4 +9,4 @@ read_dates:
 favorite: false
 word_count: 
 ---
-
+<%* await tp.file.move("/books/" + tp.file.title) %>
